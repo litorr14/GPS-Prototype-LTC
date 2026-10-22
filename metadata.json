@@ -1,0 +1,6 @@
+{
+  "name": "ESP32-C3 MicroPython GPS Navigator (GT-U7 & ST7735R)",
+  "description": "Comprehensive engineering suite & real-time 1.8\" TFT simulator for ESP32-C3 SuperMini + GT-U7 GPS + ST7735R display. Includes full MicroPython firmware (Codes, Docs, HMI, md, History), live multi-window navigation HMI, breadcrumb map, NMEA stream engine, and project ZIP exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
